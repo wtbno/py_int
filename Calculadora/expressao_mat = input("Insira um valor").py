@@ -1,3 +1,3 @@
-expressao_mat = input("Insira um valor")
+expressao_mat = input("Digite : ")
 resultado = eval(expressao_mat)
 print("O resultado é", resultado)
